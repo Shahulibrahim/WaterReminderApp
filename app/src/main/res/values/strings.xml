@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WaterReminder</string>
+    <string name="reminder_on">Reminder ON</string>
+    <string name="reminder_off">Reminder OFF</string>
+</resources>
